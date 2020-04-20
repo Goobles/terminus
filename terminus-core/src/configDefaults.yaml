@@ -3,6 +3,7 @@ appearance:
   dockScreen: current
   dockFill: 0.5
   dockAlwaysOnTop: true
+  dockHideOnBlur: false
   tabsLocation: top
   cycleTabs: true
   theme: Standard
